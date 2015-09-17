@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatlabBlog", "MatlabBlog\MatlabBlog.csproj", "{F2D4D8CD-FB46-4D74-9065-BF9702ECA2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatlabBlog.Core", "MatlabBlog.Core\MatlabBlog.Core.csproj", "{C3D66C9B-C84A-4A6E-88B5-F19E3C799229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D4D8CD-FB46-4D74-9065-BF9702ECA2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D4D8CD-FB46-4D74-9065-BF9702ECA2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D4D8CD-FB46-4D74-9065-BF9702ECA2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D4D8CD-FB46-4D74-9065-BF9702ECA2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D66C9B-C84A-4A6E-88B5-F19E3C799229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D66C9B-C84A-4A6E-88B5-F19E3C799229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D66C9B-C84A-4A6E-88B5-F19E3C799229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D66C9B-C84A-4A6E-88B5-F19E3C799229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
