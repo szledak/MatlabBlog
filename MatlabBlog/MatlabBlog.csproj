@@ -123,6 +123,8 @@
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\BlogController\List.cshtml" />
+    <Content Include="Views\Shared\_PostTemplate.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -133,7 +135,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\themes\simple\images\" />
-    <Folder Include="Views\BlogController\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MatlabBlog.Core\MatlabBlog.Core.csproj">
