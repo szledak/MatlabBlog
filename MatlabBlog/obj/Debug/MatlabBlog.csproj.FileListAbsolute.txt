@@ -22,8 +22,8 @@ E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Ra
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Webpages.Deployment.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Webpages.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Webpages.Razor.dll
-E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\FluentNHibernate.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\NHibernate.dll
+E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\FluentNHibernate.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\Iesi.Collections.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\MatlabBlog.Core.pdb
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
@@ -33,9 +33,9 @@ E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.We
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Webpages.Razor.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Helpers.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\System.Web.Mvc.xml
+E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\NHibernate.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\FluentNHibernate.pdb
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\FluentNHibernate.xml
-E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\NHibernate.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\bin\Iesi.Collections.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\obj\Debug\MatlabBlog.csprojResolveAssemblyReference.cache
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog\obj\Debug\MatlabBlog.dll
