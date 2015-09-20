@@ -1,4 +1,5 @@
 ﻿using MatlabBlog.Core;
+using MatlabBlog.Core.Objects;
 using MatlabBlog.Models;
 using System;
 using System.Collections.Generic;
@@ -11,10 +12,10 @@ using System.Web.Mvc;
 
 namespace MatlabBlog.Controllers
 {
-    /// <summary>
-    /// Home controller that contain actions to return list/view pages and others.
-    /// </summary>
-    public class BlogController : Controller
+   /// <summary>
+  /// Home controller that contain actions to return list/view pages and others.
+  /// </summary>
+  public class BlogController : Controller
     {
         private readonly IBlogRepository _blogRepository;
 
@@ -136,8 +137,8 @@ namespace MatlabBlog.Controllers
                 using (var client = new SmtpClient())
                 {
                     var adminEmail = ConfigurationManager.AppSettings["AdminEmail"];
-                    var from = new MailAddress(adminEmail, "JustBlog Messenger");
-                    var to = new MailAddress(adminEmail, "JustBlog Admin");
+                    var from = new MailAddress(adminEmail, "MatlabBlog Messenger");
+                    var to = new MailAddress(adminEmail, "MatlabBlog Admin");
 
                     using (var message = new MailMessage(from, to))
                     {
