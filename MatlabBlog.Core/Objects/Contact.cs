@@ -1,12 +1,10 @@
-﻿
-using System.ComponentModel.DataAnnotations;
-
+﻿using System.Runtime.Remoting.Activation;
 namespace MatlabBlog.Core.Objects
 {
-  /// <summary>
-  /// Encapsulates the information submitted by the contact form.
-  /// </summary>
-  public class Contact
+    /// <summary>
+    /// Encapsulates the information submitted by the contact form.
+    /// </summary>
+    public class Contact
   {
     /// <summary>
     /// The user name.

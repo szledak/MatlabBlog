@@ -13,3 +13,4 @@ E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog.Core\bin\Debug\Ni
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog.Core\bin\Debug\Ninject.Web.Common.xml
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog.Core\obj\Debug\MatlabBlog.Core.dll
 E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog.Core\obj\Debug\MatlabBlog.Core.pdb
+E:\Dokumenty\Visual Studio 2015\Projects\MatlabBlog\MatlabBlog.Core\obj\Debug\MatlabBlog.Core.csprojResolveAssemblyReference.cache
